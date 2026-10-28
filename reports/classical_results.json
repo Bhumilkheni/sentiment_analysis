@@ -1,0 +1,30 @@
+[
+  {
+    "Model": "Logistic Regression",
+    "Accuracy": 0.7775,
+    "Precision": 0.7175,
+    "Recall": 0.7405,
+    "F1": 0.7279
+  },
+  {
+    "Model": "Naive Bayes",
+    "Accuracy": 0.7356,
+    "Precision": 0.7681,
+    "Recall": 0.5474,
+    "F1": 0.5883
+  },
+  {
+    "Model": "Linear SVM",
+    "Accuracy": 0.789,
+    "Precision": 0.7328,
+    "Recall": 0.7248,
+    "F1": 0.7286
+  },
+  {
+    "Model": "Logistic Regression (tuned)",
+    "Accuracy": 0.7789,
+    "Precision": 0.7206,
+    "Recall": 0.747,
+    "F1": 0.7322
+  }
+]
